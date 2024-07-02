@@ -1,0 +1,111 @@
+---
+title: "Forecast daily bike rental demand using time series models"
+date: "`r Sys.Date()`"
+output: html_document
+author: "Put your name!"
+---
+
+# About Data Analysis Report
+
+This RMarkdown file contains the report of the data analysis done for the project on forecasting daily bike rental demand using time series models in R. It contains analysis such as data exploration, summary statistics and building the time series models. The final report was completed on `r date()`. 
+
+**Data Description:**
+
+This dataset contains the daily count of rental bike transactions between years 2011 and 2012 in Capital bikeshare system with the corresponding weather and seasonal information.
+
+**Data Source:** https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset
+
+**Relevant Paper:** 
+
+Fanaee-T, Hadi, and Gama, Joao, 'Event labeling combining ensemble detectors and background knowledge', Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg
+
+
+
+# Task One: Load and explore the data
+
+## Load data and install packages
+
+```{r}
+## Import required packages
+
+
+```
+
+
+## Describe and explore the data
+
+```{r}
+
+```
+
+
+
+# Task Two: Create interactive time series plots
+
+```{r}
+## Read about the timetk package
+# ?timetk
+
+
+```
+
+
+
+
+# Task Three: Smooth time series data
+
+```{r}
+
+```
+
+
+
+# Task Four: Decompse and access the stationarity of time series data
+
+```{r}
+
+```
+
+
+
+# Task Five: Fit and forecast time series data using ARIMA models
+
+```{r}
+
+```
+
+
+
+# Task Six: Findings and Conclusions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
